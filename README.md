@@ -1,7 +1,5 @@
 # es-theme-alcamoth
 
-This is just a personal theme I 
-
 ## Inspiration
 
 - [https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes?_=1707102279378](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes?_=1707102279378)
