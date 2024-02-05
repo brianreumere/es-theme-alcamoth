@@ -39,6 +39,10 @@ Themes can use:
 
 Video view can contain `md_video`.
 
-## Sublicenses
+## Licensing
 
-Controller icons are from the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo) which is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, included here](LICENSE.Chicuelo.md).
+This theme is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
+
+### Sublicenses
+
+Controller icons are from the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), which is also licensed under the [Creative Commons Attributition-NonCommercial-ShareAlike 4.0 International License, available here](https://github.com/chicueloarcade/es-theme-Chicuelo?tab=readme-ov-file#license).
