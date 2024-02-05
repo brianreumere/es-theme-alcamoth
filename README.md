@@ -2,8 +2,8 @@
 
 ## Inspiration
 
-- [https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes?_=1707102279378](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes?_=1707102279378)
-- [https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes/19?_=1707101595384](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes/19?_=1707101595384)
+- [box-art-marquee-and-video-snap-simultaneously-in-themes](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes?_=1707102279378)
+- [box-art-marquee-and-video-snap-simultaneously-in-themes/19](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes/19?_=1707101595384)
 - [es-theme-artbook](https://github.com/anthonycaccese/es-theme-art-book)
 - [es-theme-Chicuelo](https://github.com/chicueloarcade/es-theme-Chicuelo) (controller icons are from this theme, see #Sublicenses)
 
