@@ -33,9 +33,18 @@ based on:       "Spare" by Matt Kennedy
         <carousel name="systemcarousel">
             <type>horizontal</type>
             <color>00000000</color>
-            <size>1 0.24</size>
+            <size>1 0.2325</size>
+            <pos>0 0.38375</pos>
             <logoSize>1 .225</logoSize>
+            <logoScale>0</logoScale>
          </carousel>
+         <text name="systemInfo">
+            <backgroundColor>00000000</color>
+            <textColor>F8F8F2</textColor>
+            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontSize>0.025</fontSize>
+            <pos>0.5 0.12625</pos>
+         </text>
     </view>
 
     <view name="basic"></view>
