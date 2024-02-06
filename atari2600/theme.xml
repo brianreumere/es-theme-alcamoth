@@ -7,7 +7,7 @@
         <image name="logo">
             <path>./system.png</path>
         </image>
-        <text name="system_description" extra="true">
+        <text name="systemDescription" extra="true">
             <text>1977 | 8-BIT CONSOLE</text>
          </text>
     </view>
