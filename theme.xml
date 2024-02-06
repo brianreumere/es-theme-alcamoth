@@ -34,7 +34,7 @@ based on:       "Spare" by Matt Kennedy
             <type>horizontal</type>
             <color>00000000</color>
             <size>1 0.23</size>
-            <logoSize>0 .225</logoSize>
+            <logoSize>1 .225</logoSize>
          </carousel>
     </view>
 
