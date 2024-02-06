@@ -5,7 +5,7 @@
 
     <view name="system">
         <image name="systemHeader" extra="true">
-            <path>./header.svg</path>
+            <path>./header.png</path>
         </image>
         <text name="systemDescription" extra="true">
             <text>1990  ·  8-BIT HANDHELD CONSOLE</text>
