@@ -14,7 +14,7 @@ based on:       "Spare" by Matt Kennedy
     <formatVersion>4</formatVersion>
 
     <view name="system, basic, detailed, video">
-        <image name="backgroundColor" extra="true">
+        <image name="background" extra="true">
             <path>./_inc/images/bg_color.png</path>
             <origin>0 0</origin>
             <pos>0 0</pos>
@@ -53,7 +53,7 @@ based on:       "Spare" by Matt Kennedy
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-            <fontSize>0.28</fontSize>
+            <fontSize>0.028</fontSize>
          </text>
     </view>
 
