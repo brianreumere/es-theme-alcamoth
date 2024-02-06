@@ -49,7 +49,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.5</pos>
             <size>1 0.34</size>
             <color>404040CC</color>
-            <logoSize>1 0.31</logoSize>
+            <logoSize>0.31 0.31</logoSize>
             <logoScale>1</logoScale>
          </carousel>
          <text name="systemInfo">
