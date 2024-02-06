@@ -45,4 +45,6 @@ This theme is licensed under the [Creative Commons Attribution-NonCommercial-Sha
 
 ### Sublicenses
 
-Controller icons are from the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), which is also licensed under the [Creative Commons Attributition-NonCommercial-ShareAlike 4.0 International License, available here](https://github.com/chicueloarcade/es-theme-Chicuelo?tab=readme-ov-file#license).
+Controller icons are from the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), licensed under the [Creative Commons Attributition-NonCommercial-ShareAlike 4.0 International License, available here](https://github.com/chicueloarcade/es-theme-Chicuelo?tab=readme-ov-file#license).
+
+System headers (`header.svg` in each system directory) are from the [carbon theme](https://github.com/RetroPie/es-theme-carbon), licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, available here](https://github.com/RetroPie/es-theme-carbon/blob/master/readme.txt).
