@@ -36,7 +36,7 @@ based on:       "Spare" by Matt Kennedy
             <size>1 0.2325</size>
             <pos>0 0.38375</pos>
             <logoSize>1 .225</logoSize>
-            <logoScale>0</logoScale>
+            <logoScale>1</logoScale>
          </carousel>
          <text name="systemInfo">
             <backgroundColor>00000000</backgroundColor>
