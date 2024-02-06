@@ -8,7 +8,7 @@
             <path>./header.svg</path>
         </image>
         <text name="systemDescription" extra="true">
-            <text>1977 | 8-BIT CONSOLE</text>
+            <text>1977  ·  8-BIT CONSOLE</text>
          </text>
         <image name="logo">
             <path>./system.png</path>
