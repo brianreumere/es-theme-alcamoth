@@ -19,11 +19,11 @@ based on:       "Spare" by Matt Kennedy
             <origin>0 0</origin>
             <pos>0 0</pos>
             <size>1 1</size>
-            <color>292C33</color>
+            <color>202020FF</color>
         </image>
         <helpsystem name="help">
-            <textColor>202020FF</textColor>
-            <iconColor>202020FF</iconColor>
+            <textColor>F8F8F2</textColor>
+            <iconColor>F8F8F2</iconColor>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.03</fontSize>
         </helpsystem>
