@@ -37,7 +37,7 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <text name="systemDescription" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.26</pos>
+            <pos>0.5 0.29</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2DD</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
@@ -47,14 +47,14 @@ based on:       "Spare" by Matt Kennedy
             <type>horizontal</type>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.5</pos>
-            <size>1 0.26</size>
-            <color>00000000</color>
-            <logoSize>1 0.24</logoSize>
+            <size>1 0.34</size>
+            <color>404040CC</color>
+            <logoSize>1 0.31</logoSize>
             <logoScale>1</logoScale>
          </carousel>
          <text name="systemInfo">
             <origin>0.5 0</origin>
-            <pos>0.5 0.65</pos>
+            <pos>0.5 0.67</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
