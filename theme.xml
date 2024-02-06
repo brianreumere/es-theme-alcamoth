@@ -19,7 +19,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>0 0</origin>
             <pos>0 0</pos>
             <size>1 1</size>
-            <color>202020FF</color>
+            <color>202020</color>
         </image>
         <helpsystem name="help">
             <textColor>F8F8F2</textColor>
@@ -32,15 +32,22 @@ based on:       "Spare" by Matt Kennedy
     <view name="system">
         <carousel name="systemcarousel">
             <type>horizontal</type>
-            <color>00000000</color>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.5</pos>
             <size>1 0.2325</size>
-            <pos>0 0.38375</pos>
+            <color>00000000</color>
             <logoSize>1 .225</logoSize>
             <logoScale>1</logoScale>
          </carousel>
-         <text name="systemInfo">
+         <text name="system_description" extra="true">
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2</color>
+            <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
+            <fontSize>0.04</fontSize>
+         </text>
+         <text name="systemInfo">
+            <backgroundColor>00000000</backgroundColor>
+            <color>F8F8F2CC</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.025</fontSize>
          </text>
