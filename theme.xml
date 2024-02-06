@@ -39,7 +39,7 @@ based on:       "Spare" by Matt Kennedy
             <logoScale>0</logoScale>
          </carousel>
          <text name="systemInfo">
-            <backgroundColor>00000000</color>
+            <backgroundColor>00000000</backgroundColor>
             <textColor>F8F8F2</textColor>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.025</fontSize>
