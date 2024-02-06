@@ -36,7 +36,7 @@ based on:       "Spare" by Matt Kennedy
             <maxSize>0.5 0.15</maxSize>
         </image>
         <text name="systemDescription" extra="true">
-            <origin>0.5 0</origin>
+            <origin>0.5 0.5</origin>
             <pos>0.5 0.41</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2DD</color>
