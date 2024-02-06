@@ -32,12 +32,12 @@ based on:       "Spare" by Matt Kennedy
     <view name="system">
         <image name="systemHeader" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.5 0.2</pos>
+            <pos>0.5 0.16</pos>
             <maxSize>0.5 0.15</maxSize>
         </image>
         <text name="systemDescription" extra="true">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.32</pos>
+            <origin>0.5 0</origin>
+            <pos>0.5 0.41</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2DD</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
