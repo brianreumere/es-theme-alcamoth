@@ -41,7 +41,7 @@ based on:       "Spare" by Matt Kennedy
          </carousel>
          <text name="systemDescription" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.5 0.46</pos>
+            <pos>0.5 0.33</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2DD</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
@@ -49,7 +49,7 @@ based on:       "Spare" by Matt Kennedy
          </text>
          <text name="systemInfo">
             <origin>0.5 0.5</origin>
-            <pos>0.5 0.54</pos>
+            <pos>0.5 0.67</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
