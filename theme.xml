@@ -47,9 +47,9 @@ based on:       "Spare" by Matt Kennedy
             <type>horizontal</type>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.5</pos>
-            <size>1 0.44</size>
-            <color>404040CC</color>
-            <logoSize>0.42 0.42</logoSize>
+            <size>1 0.42</size>
+            <color>40404000</color>
+            <logoSize>0.40 0.40</logoSize>
             <logoScale>1</logoScale>
          </carousel>
          <text name="systemInfo">
