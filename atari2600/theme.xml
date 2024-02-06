@@ -11,7 +11,7 @@
             <text>1977  ·  8-BIT CONSOLE</text>
          </text>
         <image name="logo">
-            <path>./system.png</path>
+            <path>./logo.png</path>
         </image>
     </view>
 
