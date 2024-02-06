@@ -21,13 +21,6 @@ based on:       "Spare" by Matt Kennedy
             <size>1 1</size>
             <color>000000</color>
         </image>
-        <image name="background_help" extra="true">
-            <path>./_inc/images/bg_color.png</path>
-            <origin>0 1</origin>
-            <pos>0 1</pos>
-            <size>1 0.070</size>
-            <color>44475A99</color>
-        </image>
         <helpsystem name="help">
             <textColor>F8F8F2</textColor>
             <iconColor>F8F8F2</iconColor>
@@ -39,7 +32,7 @@ based on:       "Spare" by Matt Kennedy
     <view name="system">
         <carousel name="systemcarousel">
             <type>horizontal</type>
-            <color>44475A99</color>
+            <color>231C2ACC</color>
             <size>1 0.3</size>
             <logoScale>1.9</logoScale>
             <logoSize>0.15625 0.097222222222222</logoSize>
