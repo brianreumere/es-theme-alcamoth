@@ -13,7 +13,7 @@ based on:       "Spare" by Matt Kennedy
 
     <formatVersion>4</formatVersion>
 
-    <view name="system">
+    <view name="system, basic, detailed, video">
         <image name="background_color" extra="true">
             <path>./_inc/images/bg_color.png</path>
             <origin>0 0</origin>
@@ -35,6 +35,17 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.03</fontSize>
         </helpsystem>
     </view>
+
+    <view name="system">
+        <carousel name="systemcarousel">
+            <type>horizontal</type>
+            <color>F8F8F2</color>
+            <size>1 0.5</size>
+            <logoScale>1.9</logoScale>
+            <logoSize>0.15625 0.097222222222222</logoSize>
+         </carousel>
+    </view>
+
     <view name="basic"></view>
     <view name="detailed"></view>
     <view name="video"></view>
