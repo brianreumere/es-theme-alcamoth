@@ -1,0 +1,42 @@
+<!--
+theme name:     Alcamoth
+version:        0.1
+author:         Brian Reumere
+email:          brian@mutualaid.info
+website:        https://mutualaid.info
+license:        Creative Commons CC-BY-NC-SA 4.0
+based on:       "Spare" by Matt Kennedy
+                "Chicuelo" by Chicuelo
+-->
+
+<theme>
+
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        <image name="background_color" extra="true">
+            <path>./_inc/images/bg_color.png</path>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <color>000000</color>
+        </image>
+        <image name="background_help" extra="true">
+            <path>./_inc/images/bg_color.png</path>
+            <origin>0 1</origin>
+            <pos>0 1</pos>
+            <size>1 0.070</size>
+            <color>44475A99</color>
+        </image>
+        <helpsystem name="help">
+            <textColor>F8F8F2</textColor>
+            <iconColor>F8F8F2</iconColor>
+            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontSize>0.03</fontSize>
+        </helpsystem>
+    </view>
+    <view name="basic"></view>
+    <view name="detailed"></view>
+    <view name="video"></view>
+
+</theme>
