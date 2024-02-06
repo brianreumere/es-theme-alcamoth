@@ -39,8 +39,8 @@ based on:       "Spare" by Matt Kennedy
     <view name="system">
         <carousel name="systemcarousel">
             <type>horizontal</type>
-            <color>F8F8F2</color>
-            <size>1 0.5</size>
+            <color>44475A99</color>
+            <size>1 0.3</size>
             <logoScale>1.9</logoScale>
             <logoSize>0.15625 0.097222222222222</logoSize>
          </carousel>
