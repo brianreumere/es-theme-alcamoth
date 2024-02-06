@@ -22,7 +22,7 @@ based on:       "Spare" by Matt Kennedy
             <color>202020</color>
         </image>
         <helpsystem name="help">
-            <textColor>F8F8F2</textColor>
+            <textColor>F8F8F2BB</textColor>
             <iconColor>F8F8F2</iconColor>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.03</fontSize>
@@ -41,15 +41,15 @@ based on:       "Spare" by Matt Kennedy
          </carousel>
          <text name="system_description" extra="true">
             <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F2</color>
+            <color>F8F8F2DD</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
-            <fontSize>0.04</fontSize>
+            <fontSize>0.038</fontSize>
          </text>
          <text name="systemInfo">
             <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F2CC</color>
+            <color>F8F8F2BB</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-            <fontSize>0.025</fontSize>
+            <fontSize>0.026</fontSize>
          </text>
     </view>
 
