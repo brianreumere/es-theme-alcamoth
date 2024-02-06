@@ -35,14 +35,14 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.16</pos>
             <maxSize>0.4 0.12</maxSize>
         </image>
-        <text name="systemDescription" extra="true">
+        <!-- <text name="systemDescription" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.2</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2DD</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.038</fontSize>
-        </text>
+        </text> -->
         <carousel name="systemcarousel">
             <type>horizontal</type>
             <origin>0.5 0.5</origin>
