@@ -43,7 +43,6 @@ based on:       "Spare" by Matt Kennedy
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.025</fontSize>
-            <pos>0.5 0.12625</pos>
          </text>
     </view>
 
