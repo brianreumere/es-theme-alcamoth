@@ -7,8 +7,11 @@
         <image name="systemHeader" extra="true">
             <path>./header.svg</path>
         </image>
+        <text name="systemYear" extra="true">
+            <text>1990</text>
+        </text>
         <text name="systemDescription" extra="true">
-            <text>1990  ·  8-BIT HANDHELD CONSOLE</text>
+            <text>8-BIT HANDHELD CONSOLE</text>
          </text>
         <image name="logo">
             <path>./logo.png</path>
