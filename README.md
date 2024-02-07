@@ -5,7 +5,7 @@
 - [box-art-marquee-and-video-snap-simultaneously-in-themes](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes?_=1707102279378)
 - [box-art-marquee-and-video-snap-simultaneously-in-themes/19](https://retropie.org.uk/forum/topic/25795/box-art-marquee-and-video-snap-simultaneously-in-themes/19?_=1707101595384)
 - [es-theme-artbook](https://github.com/anthonycaccese/es-theme-art-book)
-- [es-theme-Chicuelo](https://github.com/chicueloarcade/es-theme-Chicuelo) (controller icons are from this theme, see #Sublicenses)
+- [es-theme-Chicuelo](https://github.com/chicueloarcade/es-theme-Chicuelo)
 
 ## Features
 
@@ -17,6 +17,16 @@
 - Focus is on screenshot or video (middle of screen)
 - Description below screenshot or video
 - Marquee, box art, and game info on right
+
+## Image assets
+
+### Controllers
+
+Most controller images are from Pineapple Graphics (see [Sublicenses](#sublicenses)). A small drop shadow was added to each controller, and the controllers are scaled roughly based on their actual physical sizes (6 px = 1 mm) and placed on a 1560x960 transparent canvas.
+
+### Header images
+
+Most header logos are from Dan Patrick (see [Sublicenses](#sublicenses)). To get the SVGs to display properly in Emulation Station, I had to edit most of them with Inkscape. Generally they had to be flattened and re-saved. If any paths displayed incorrectly after flattening, it helped to select each path individually and perform a Path->Union operation on it, and then retry flattening all paths.
 
 ## Theme
 
@@ -47,4 +57,4 @@ This theme is licensed under the [Creative Commons Attribution-NonCommercial-Sha
 
 - Controller images are from [Pineapple Graphic](https://archive.org/details/full-color-pngs), license TBD
 - Console logo images are from [Dan Patrick](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), license TBD
-- Raspberry Pi image from [Lucasbosch on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_B%2B_illustration.svg), licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported License](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_B%2B_illustration.svg#Licensing).
+- RetroPie logos are from [the RetroPie team on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RetroPie-Icon.svg), licensed under the GPLv3

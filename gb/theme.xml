@@ -14,11 +14,12 @@
             <text>8-BIT HANDHELD CONSOLE</text>
          </text>
         <image name="logo">
-            <path>./logo.png</path>
+            <path>./controller.png</path>
         </image>
     </view>
 
-    <view name="basic"></view>
+    <view name="basic">
+    </view>
     <view name="detailed"></view>
     <view name="video"></view>
 

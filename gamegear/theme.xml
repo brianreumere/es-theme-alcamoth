@@ -14,7 +14,7 @@
             <text>8-BIT HANDHELD CONSOLE</text>
          </text>
         <image name="logo">
-            <path>./logo.png</path>
+            <path>./controller.png</path>
         </image>
     </view>
 
