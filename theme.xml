@@ -32,8 +32,8 @@ based on:       "Spare" by Matt Kennedy
     <view name="system">
         <image name="systemHeader" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.021875</pos>
-            <maxSize>0.75 0.09259259259</maxSize>
+            <pos>0.5 0.09259259259</pos>
+            <maxSize>0.75 0.166666666</maxSize>
         </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>
