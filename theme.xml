@@ -13,7 +13,7 @@ based on:       "Spare" by Matt Kennedy
 
     <formatVersion>4</formatVersion>
 
-    <view name="system, basic, detailed, video">
+    <view name="system, detailed, video">
         <image name="background" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0 0</origin>
