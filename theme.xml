@@ -51,7 +51,7 @@ based on:       "Spare" by Matt Kennedy
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-            <fontSize>0.032</fontSize>
+            <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
         <text name="systemInfo">
@@ -60,7 +60,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.75 0.05</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
