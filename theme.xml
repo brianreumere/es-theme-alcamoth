@@ -19,7 +19,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>0 0</origin>
             <pos>0 0</pos>
             <size>1 1</size>
-            <color>202020</color>
+            <color>141411</color>
         </image>
         <helpsystem name="help">
             <textColor>F8F8F2AA</textColor>
@@ -31,35 +31,36 @@ based on:       "Spare" by Matt Kennedy
 
     <view name="system">
         <image name="systemHeader" extra="true">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.16</pos>
-            <maxSize>0.8 0.24</maxSize>
-        </image>
-        <text name="systemDescription" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.2</pos>
-            <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F2DD</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-            <fontSize>0.038</fontSize>
-        </text>
+            <pos>0.5 0.021875</pos>
+            <maxSize>0.75 0.3</maxSize>
+        </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.5</pos>
-            <size>1 0.42</size>
+            <size>1 0.5</size>
             <color>40404000</color>
             <logoSize>0.38 0.38</logoSize>
             <logoScale>1</logoScale>
-         </carousel>
-         <text name="systemInfo">
+        </carousel>
+        <text name="systemDescription" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.72</pos>
+            <pos>0.5 0.775</pos>
+            <size>0.75 0.1</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.032</fontSize>
-         </text>
+        </text>
+        <text name="systemInfo">
+            <origin>0.5 0</origin>
+            <pos>0.5 0.8796296296</pos>
+            <backgroundColor>00000000</backgroundColor>
+            <color>F8F8F2CC</color>
+            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontSize>0.032</fontSize>
+        </text>
     </view>
 
     <view name="basic"></view>
