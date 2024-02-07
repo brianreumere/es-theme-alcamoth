@@ -4,18 +4,12 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <image name="systemHeader" extra="true">
-            <path>./header.svg</path>
-        </image>
         <text name="systemYear" extra="true">
             <text>2012</text>
         </text>
         <text name="systemDescription" extra="true">
             <text>64-BIT EMULATION CONSOLE</text>
          </text>
-        <image name="logo">
-            <path>./controller.png</path>
-        </image>
     </view>
     <view name="basic"></view>
     <view name="detailed"></view>
