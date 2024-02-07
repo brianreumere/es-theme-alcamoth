@@ -45,6 +45,6 @@ This theme is licensed under the [Creative Commons Attribution-NonCommercial-Sha
 
 ### Sublicenses
 
-- Controller icons are from the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), licensed under the [Creative Commons Attributition-NonCommercial-ShareAlike 4.0 International License](https://github.com/chicueloarcade/es-theme-Chicuelo?tab=readme-ov-file#license).
-- Raspberry Pi logo from [Lucasbosch on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_B%2B_illustration.svg), licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported License](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_B%2B_illustration.svg#Licensing).
-- System headers (`header.svg` in each system directory) are from the [carbon theme](https://github.com/RetroPie/es-theme-carbon), licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://github.com/RetroPie/es-theme-carbon/blob/master/readme.txt).
+- Controller images are from [Pineapple Graphic](https://archive.org/details/full-color-pngs), license TBD
+- Console logo images are from [Dan Patrick](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), license TBD
+- Raspberry Pi image from [Lucasbosch on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_B%2B_illustration.svg), licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported License](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_B%2B_illustration.svg#Licensing).
