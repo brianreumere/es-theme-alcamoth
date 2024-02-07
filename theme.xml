@@ -44,7 +44,7 @@ based on:       "Spare" by Matt Kennedy
             <logoSize>0.38 0.38</logoSize>
             <logoScale>1</logoScale>
         </carousel>
-        <text name="systemDescription" extra="true">
+        <text name="systemYear" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.75</pos>
             <size>0.75 0.04</size>
@@ -54,9 +54,19 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
+        <text name="systemDescription" extra="true">
+            <origin>0.5 0</origin>
+            <pos>0.5 0.80</pos>
+            <size>0.75 0.04</size>
+            <backgroundColor>00000000</backgroundColor>
+            <color>F8F8F2CC</color>
+            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontSize>0.036</fontSize>
+            <alignment>center</alignment>
+        </text>
         <text name="systemInfo">
             <origin>0.5 0</origin>
-            <pos>0.5 0.79</pos>
+            <pos>0.5 0.85</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
