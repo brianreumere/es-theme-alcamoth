@@ -122,8 +122,8 @@ based on:       "Spare" by Matt Kennedy
         <!-- Start actual content (not helpers) -->
         <image name="logo">
             <origin>0 0</origin>
-            <pos>0 0</pos>
-            <maxSize>0.33333333 0.1</maxSize>
+            <pos>0.0166666666 0.05</pos>
+            <maxSize>0.3 0.09</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
         <textlist name="gamelist">
