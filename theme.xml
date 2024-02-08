@@ -37,7 +37,7 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="system">
-        <image name="systemHeader" extra="true">
+        <image name="systemLogo" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.1666666667</pos>
             <maxSize>0.75 0.09259259259</maxSize>
@@ -107,7 +107,13 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="detailed">
-        <image name="gamelistBackgroundHelper" extra="true">
+        <image name="logoHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <pos>0 0</pos>
+            <size>0.33333333 0.1</size>
+            <color>00ff0033</color>
+        </image>
+        <image name="gamelistHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <pos>0 0.1</pos>
             <size>0.33333333 0.83</size>
