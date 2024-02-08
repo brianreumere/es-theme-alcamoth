@@ -140,7 +140,7 @@ based on:       "Spare" by Matt Kennedy
         <text name="md_description">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.6</pos>
-            <size>0.22 0.31</size>
+            <size>0.4 0.31</size>
             <color>FFFFFF</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
