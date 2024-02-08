@@ -8,7 +8,7 @@
             <text>2012</text>
         </text>
         <text name="systemDescription" extra="true">
-            <text>64-BIT EMULATION CONSOLE</text>
+            <text>64-BIT EMULATION PLATFORM</text>
          </text>
     </view>
     <view name="basic"></view>
