@@ -154,7 +154,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
-            <pos>0.85 0.31</pos>
+            <pos>0.84 0.31</pos>
             <size>0.2 0.455</size>
             <color>CCCCCC44</color>
         </image>
