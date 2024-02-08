@@ -153,8 +153,8 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <image name="gameInfoBackground" extra="true">
             <path>./_inc/images/background.png</path>
-            <origin>1 1</origin>
-            <pos>1 1</pos>
+            <origin>1 0</origin>
+            <pos>1 0</pos>
             <size>0.3 0.93</size>
             <color>FF1CCC</color>
         </image>
