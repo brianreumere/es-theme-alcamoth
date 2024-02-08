@@ -26,7 +26,7 @@ Most controller images are from Pineapple Graphics (see [Sublicenses](#sublicens
 
 ### Header images
 
-Most header logos are from Dan Patrick (see [Sublicenses](#sublicenses)). To get the SVGs to display properly in Emulation Station, I had to edit most of them with Inkscape. Generally they had to be flattened and re-saved. If any paths displayed incorrectly after flattening, it helped to select each path individually and perform a Path->Union operation on it, and then retry flattening all paths.
+Most header logos are from Dan Patrick (see [Sublicenses](#sublicenses)). To get the SVGs to display properly in Emulation Station, I had to edit most of them with Inkscape. Generally they had to be flattened and re-saved. If any paths displayed incorrectly when selecting all layers and objects and then flattening, it helped to select each path (e.g. each letter or shape) individually and perform a Path->Union (⌘ + on macOS) operation on it, and then retry flattening all paths, group them, and save.
 
 ## Theme
 
