@@ -151,6 +151,13 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.84 0.29</pos>
             <maxSize>0.16 0.415</maxSize>
         </image>
+        <image name="boxArtBackground">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0.5</origin>
+            <position>0.84 0.29</position>
+            <size>0.16 0.415</size>
+            <color>CCCCCC44</color>
+        </image>
     </view>
 
     <view name="video"></view>
