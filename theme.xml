@@ -103,9 +103,9 @@ based on:       "Spare" by Matt Kennedy
         <image name="gamelistBackgroundHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0 0.5</origin>
-            <pos>0 0.25</pos>
+            <pos>0 0.5</pos>
             <size>0.25 1</size>
-            <color>ff0000aa</color>
+            <color>ff000033</color>
         </image>
     </view>
 
