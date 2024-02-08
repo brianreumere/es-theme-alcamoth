@@ -156,12 +156,12 @@ based on:       "Spare" by Matt Kennedy
             <origin>1 1</origin>
             <pos>1 1</pos>
             <size>0.3 0.93</size>
-            <color>FF1CFFCC</color>
+            <color>FF1CCC</color>
         </image>
         <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
-            <pos>0.84 0.22</pos>
+            <pos>0.84 0.29</pos>
             <size>0.2 0.455</size>
             <color>1C1C17CC</color>
         </image>
