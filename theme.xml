@@ -110,7 +110,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="gamelistBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <pos>0 0</pos>
-            <size>0.33333333 0.83</size>
+            <size>0.33333333 0.93</size>
             <color>1C1C17CC</color>
         </image>
         <image name="logo">
