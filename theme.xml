@@ -138,7 +138,7 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <!-- Game description -->
         <text name="md_description">
-            <origin>0.5 0</origin>
+            <origin>0.5 0.5</origin>
             <pos>0.54 0.8</pos>
             <size>0.44 0.35</size>
             <color>FFFFFF</color>
