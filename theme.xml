@@ -27,6 +27,13 @@ based on:       "Spare" by Matt Kennedy
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.03</fontSize>
         </helpsystem>
+        <image name="helpBackground" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0 1</origin>
+            <pos>0 1</pos>
+            <size>1 0.070</size>
+            <color>CCCCCC66</color>
+        </image>
     </view>
 
     <view name="system">
@@ -103,8 +110,8 @@ based on:       "Spare" by Matt Kennedy
         <image name="gamelistBackgroundHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0 0.5</origin>
-            <pos>0 0.5</pos>
-            <size>0.25 1</size>
+            <pos>0.1 0.5</pos>
+            <size>0.25 0.8</size>
             <color>ff000033</color>
         </image>
     </view>
