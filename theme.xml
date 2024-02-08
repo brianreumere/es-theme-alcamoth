@@ -127,7 +127,7 @@ based on:       "Spare" by Matt Kennedy
             <primaryColor>F8F8F2</primaryColor>
             <secondaryColor>F8F8F2</secondaryColor>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-            <fontSize>0.03</fontSize>
+            <fontSize>0.025</fontSize>
             <horizontalMargin>0.02</horizontalMargin>
         </textlist>
     </view>
