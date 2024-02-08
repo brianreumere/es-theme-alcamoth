@@ -11,8 +11,14 @@
             <text>64-BIT EMULATION PLATFORM</text>
          </text>
     </view>
+
+    <view name="detailed">
+        <image name="md_thumbnail">
+            <pos>-1 -1</pos>
+        </image>
+    </view>
+
     <view name="basic"></view>
-    <view name="detailed"></view>
     <view name="video"></view>
 
 </theme>
