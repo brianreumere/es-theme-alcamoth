@@ -120,8 +120,8 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
         <textlist name="gamelist">
-            <pos>0 0.1</pos>
-            <size>0.32 0.83</size>
+            <pos>0 0.14</pos>
+            <size>0.32 0.75</size>
             <selectorColor>F8F8F2</selectorColor>
             <selectedColor>000000</selectedColor>
             <primaryColor>F8F8F2</primaryColor>
