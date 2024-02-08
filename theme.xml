@@ -145,11 +145,11 @@ based on:       "Spare" by Matt Kennedy
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
         </text>
-        <!-- Game marquee/wheel art -->
-        <image name="md_marquee">
+        <!-- Game box art -->
+        <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
             <pos>0.76 0.06</pos>
-            <maxSize>0.16 0.06</maxSize>
+            <maxSize>0.16 0.32</maxSize>
         </image>
     </view>
 
