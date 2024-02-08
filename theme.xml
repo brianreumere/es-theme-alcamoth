@@ -111,7 +111,7 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/background.png</path>
             <pos>0 0</pos>
             <size>0.33333333 0.83</size>
-            <color>1C1C1799</color>
+            <color>1C1C17CC</color>
         </image>
         <image name="logo">
             <origin>0.5 0.5</origin>
