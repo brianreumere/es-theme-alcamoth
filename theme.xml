@@ -135,6 +135,11 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.54 0.29</pos>
             <maxSize>0.44 0.5</maxSize>
         </image>
+        <text name="md_description">
+            <origin>0.5 0.5</origin>
+            <pos>0.54 0.62</pos>
+            <size>0.44 0.44</size>
+        </text>
     </view>
 
     <view name="video"></view>
