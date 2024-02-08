@@ -13,7 +13,7 @@ based on:       "Spare" by Matt Kennedy
 
     <formatVersion>4</formatVersion>
 
-    <view name="system, detailed, video">
+    <view name="system, basic, detailed, video">
         <image name="background" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0 0</origin>
@@ -99,7 +99,16 @@ based on:       "Spare" by Matt Kennedy
         </textlist>
     </view>
 
-    <view name="detailed"></view>
+    <view name="detailed">
+        <image name="gamelistBackgroundHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0 0.5</origin>
+            <pos>0 0.25</pos>
+            <size>0.25 1</size>
+            <color>ff0000aa</color>
+        </image>
+    </view>
+
     <view name="video"></view>
 
 </theme>
