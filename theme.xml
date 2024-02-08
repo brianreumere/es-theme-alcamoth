@@ -121,7 +121,8 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <!-- Start actual content (not helpers) -->
         <image name="logo">
-            <pos>0.25 0</pos>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
             <maxSize>0.33333333 0.1</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
