@@ -139,7 +139,7 @@ based on:       "Spare" by Matt Kennedy
         <!-- Game description -->
         <text name="md_description">
             <origin>0.5 0</origin>
-            <pos>0.54 0.6</pos>
+            <pos>0.5 0.6</pos>
             <size>0.4 0.31</size>
             <color>FFFFFF</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
@@ -148,13 +148,13 @@ based on:       "Spare" by Matt Kennedy
         <!-- Game box art -->
         <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
-            <pos>0.84 0.29</pos>
+            <pos>0.82 0.29</pos>
             <maxSize>0.16 0.415</maxSize>
         </image>
         <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
-            <pos>0.84 0.29</pos>
+            <pos>0.82 0.29</pos>
             <size>0.2 0.455</size>
             <color>1C1C17CC</color>
         </image>
