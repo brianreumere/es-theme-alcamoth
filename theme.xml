@@ -132,7 +132,7 @@ based on:       "Spare" by Matt Kennedy
         </textlist>
         <image name="md_image">
             <origin>0.5 0.5</origin>
-            <pos>0.54 0.36</pos>
+            <pos>0.54 0.29</pos>
             <maxSize>0.44 0.5</maxSize>
         </image>
     </view>
