@@ -149,7 +149,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
             <pos>0.84 0.22</pos>
-            <maxSize>0.16 0.32</maxSize>
+            <maxSize>0.16 0.4</maxSize>
         </image>
     </view>
 
