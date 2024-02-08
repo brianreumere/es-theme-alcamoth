@@ -96,7 +96,7 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <textlist name="gamelist">
             <selectorColor>F8F8F2</selectorColor>
-            <selectedColor>FFFFFF</selectedColor>
+            <selectedColor>000000</selectedColor>
             <primaryColor>F8F8F2</primaryColor>
             <secondaryColor>F8F8F2</secondaryColor>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
