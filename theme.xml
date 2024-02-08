@@ -109,8 +109,8 @@ based on:       "Spare" by Matt Kennedy
     <view name="detailed">
         <image name="logoHelper" extra="true">
             <path>./_inc/images/background.png</path>
-            <pos>0 0</pos>
-            <size>0.33333333 0.1</size>
+            <pos>0.0166666666 0.005</pos>
+            <size>0.3 0.09</size>
             <color>00ff0033</color>
         </image>
         <image name="gamelistHelper" extra="true">
