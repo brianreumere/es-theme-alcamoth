@@ -158,13 +158,13 @@ based on:       "Spare" by Matt Kennedy
             <size>0.3 0.93</size>
             <color>1C1C17CC</color>
         </image>
-        <image name="boxArtBackground" extra="true">
+        <!-- <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
             <size>0.242 0.5005</size>
             <color>1C1C17CC</color>
-        </image>
+        </image> -->
     </view>
 
     <view name="video"></view>
