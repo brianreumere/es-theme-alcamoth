@@ -181,10 +181,18 @@ based on:       "Spare" by Matt Kennedy
             <color>1CFF1755</color>
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-            <size>0.24 0.01</size>
+            <size>0.29 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
+            <forceUppercase>0</forceUppercase>
+        </text>
+        <text name="md_publisher, md_developer, md_genre, md_players, md_playcount">
+            <size>0.29 0.02</size>
+            <color>F8F8F2</color>
+            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontSize>0.024</fontSize>
+            <forceUppercase>0</forceUppercase>
         </text>
     </view>
 
