@@ -220,13 +220,13 @@ based on:       "Spare" by Matt Kennedy
         <text name="md_lbl_publisher">
             <pos>0.72 0.645625</pos>
         </text>
-        <image name="individualLabelHelper" extra="true">
+        <!-- <image name="individualLabelHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>1 0.5</origin>
             <pos>0.98 0.645625</pos>
             <size>0.13 0.02</size>
             <color>1CFFCC55</color>
-        </image>
+        </image> -->
         <text name="md_publisher">
             <pos>0.98 0.645625</pos>
         </text>
@@ -242,6 +242,30 @@ based on:       "Spare" by Matt Kennedy
         <rating name="md_rating">
             <pos>0.98 0.733125</pos>
         </rating>
+        <text name="md_lbl_genre">
+            <pos>0.72 0.776875</pos>
+        </text>
+        <text name="md_genre">
+            <pos>0.98 0.776875</pos>
+        </text>
+        <text name="md_lbl_players">
+            <pos>0.72 0.820625</pos>
+        </text>
+        <text name="md_players">
+            <pos>0.98 0.820625</pos>
+        </text>
+        <text name="md_lbl_lastplayed">
+            <pos>0.72 0.864375</pos>
+        </text>
+        <datetime name="md_lastplayed">
+            <pos>0.98 0.864375</pos>
+        </datetime>
+        <text name="md_lbl_playcount">
+            <pos>0.72 0.908125</pos>
+        </text>
+        <text name="md_playcount">
+            <pos>0.98 0.908125</pos>
+        </text>
     </view>
 
     <view name="video"></view>
