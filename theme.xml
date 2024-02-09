@@ -199,7 +199,7 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <datetime name="md_releasedate, md_lastplayed">
             <origin>1 0.5</origin>
-            <size>0.29 0.02</size>
+            <size>0.13 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
@@ -207,7 +207,7 @@ based on:       "Spare" by Matt Kennedy
         </datetime>
         <rating name="md_rating">
             <origin>1 0.5</origin>
-            <size>0.29 0.02</size>
+            <size>0.13 0.02</size>
             <filledPath>./_inc/images/star_filled.svg</filledPath>
             <unfilledPath>./_inc/images/star_hollow.svg</unfilledPath>
         </rating>
@@ -224,7 +224,7 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/background.png</path>
             <origin>1 0.5</origin>
             <pos>0.98 0.645625</pos>
-            <size>0.29 0.02</size>
+            <size>0.13 0.02</size>
             <color>1CFFCC55</color>
         </image>
         <text name="md_publisher">
