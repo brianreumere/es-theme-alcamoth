@@ -24,7 +24,7 @@ based on:       "Spare" by Matt Kennedy
         <helpsystem name="help">
             <textColor>F8F8F2</textColor>
             <iconColor>F8F8F2</iconColor>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.03</fontSize>
         </helpsystem>
         <image name="helpBackground" extra="true">
@@ -81,7 +81,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
@@ -91,7 +91,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
@@ -101,7 +101,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
-            <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Bold.ttf</fontPath>
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
@@ -121,7 +121,7 @@ based on:       "Spare" by Matt Kennedy
             <selectedColor>000000</selectedColor>
             <primaryColor>F8F8F2</primaryColor>
             <secondaryColor>F8F8F2</secondaryColor>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.03</fontSize>
         </textlist>
     </view>
@@ -150,7 +150,7 @@ based on:       "Spare" by Matt Kennedy
             <selectedColor>000000</selectedColor>
             <primaryColor>F8F8F2</primaryColor>
             <secondaryColor>F8F8F2</secondaryColor>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.025</fontSize>
             <horizontalMargin>0.02</horizontalMargin>
         </textlist>
@@ -174,7 +174,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.735</pos>
             <size>0.36 0.31</size>
             <color>FFFFFF</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
         </text>
         <!-- Right column -->
@@ -210,7 +210,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>0 0.5</origin>
             <size>0.8 0.024</size>
             <color>F8F8F2</color>
-            <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Bold.ttf</fontPath>
             <fontSize>0.024</fontSize>
             <forceUppercase>0</forceUppercase>
         </text>
@@ -218,7 +218,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>1 0.5</origin>
             <size>0.18 0.024</size>
             <color>F8F8F2</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
             <alignment>right</alignment>
             <forceUppercase>0</forceUppercase>
@@ -227,7 +227,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>1 0.5</origin>
             <size>0.18 0.02</size>
             <color>F8F8F2</color>
-            <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
             <alignment>right</alignment>
         </datetime>
