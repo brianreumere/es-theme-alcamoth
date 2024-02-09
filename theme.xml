@@ -15,11 +15,12 @@ based on:       "Spare" by Matt Kennedy
 
     <view name="system, basic, detailed, video">
         <image name="background" extra="true">
-            <path>./_inc/images/background.png</path>
+            <path>./_inc/images/micro_carbon.png</path>
             <origin>0 0</origin>
             <pos>0 0</pos>
             <size>1 1</size>
-            <color>141411</color>
+            <!-- <color>141411</color> -->
+            <tile>true</tile>
         </image>
         <helpsystem name="help">
             <textColor>F8F8F2</textColor>

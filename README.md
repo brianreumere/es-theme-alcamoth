@@ -58,3 +58,4 @@ This theme is licensed under the [Creative Commons Attribution-NonCommercial-Sha
 - Controller images are from [Pineapple Graphic](https://archive.org/details/full-color-pngs), license TBD
 - Console logo images are from [Dan Patrick](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), license TBD
 - RetroPie logos are from [the RetroPie team on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RetroPie-Icon.svg), licensed under the GPLv3
+- https://www.toptal.com/designers/subtlepatterns/micro-carbon/
