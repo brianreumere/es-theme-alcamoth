@@ -56,6 +56,9 @@ This theme is licensed under the [Creative Commons Attribution-NonCommercial-Sha
 ### Sublicenses
 
 - Controller images are from [Pineapple Graphic](https://archive.org/details/full-color-pngs), license TBD
-- Console logo images are from [Dan Patrick](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), license TBD
+- Console logos are mostly from [Dan Patrick](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), license TBD
 - RetroPie logos are from [the RetroPie team on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RetroPie-Icon.svg), licensed under the GPLv3
+- Favorites folder image is from https://github.com/RetroPie/es-theme-carbon/tree/master
+- Favorites logo is from https://github.com/anthonycaccese/es-theme-art-book/tree/master
 - Background image is [Micro Carbon Pattern by Atle Mo](https://www.toptal.com/designers/subtlepatterns/micro-carbon/)
+- 

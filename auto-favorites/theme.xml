@@ -1,0 +1,19 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+    <view name="system">
+        <text name="systemYear" extra="true">
+            <text>MULTIPLE RELEASE DATES</text>
+        </text>
+        <text name="systemDescription" extra="true">
+            <text>ALL YOUR FAVORITES</text>
+         </text>
+    </view>
+
+    <view name="basic"></view>
+    <view name="detailed"></view>
+    <view name="video"></view>
+
+</theme>
