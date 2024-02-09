@@ -181,6 +181,7 @@ based on:       "Spare" by Matt Kennedy
             <color>1CFF1755</color>
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+            <origin>0 0</origin>
             <size>0.29 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
@@ -188,6 +189,7 @@ based on:       "Spare" by Matt Kennedy
             <forceUppercase>0</forceUppercase>
         </text>
         <text name="md_publisher, md_developer, md_genre, md_players, md_playcount">
+            <origin>1 0</origin>
             <size>0.29 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
@@ -195,6 +197,7 @@ based on:       "Spare" by Matt Kennedy
             <forceUppercase>0</forceUppercase>
         </text>
         <datetime name="md_releasedate, md_lastplayed">
+            <origin>1 0</origin>
             <size>0.29 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
@@ -203,6 +206,9 @@ based on:       "Spare" by Matt Kennedy
         <text name="md_lbl_releasedate">
             <pos>0.72 0.58</pos>
         </text>
+        <datetime name="md_releasedate">
+            <pos>0.98 0.59</pos>
+        </datetime>
     </view>
 
     <view name="video"></view>
