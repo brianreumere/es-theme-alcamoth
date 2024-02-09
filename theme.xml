@@ -108,7 +108,7 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="detailed">
-        <image name="gamelistBackground" extra="true">
+        <image name="leftBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <pos>0 0</pos>
             <size>0.3 0.93</size>
@@ -152,12 +152,12 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.85 0.3</pos>
             <maxSize>0.2 0.4</maxSize>
         </image>
-        <image name="gameInfoBackground" extra="true">
+        <image name="rightBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>1 0</origin>
             <pos>1 0</pos>
             <size>0.3 0.93</size>
-            <color>1C1C17CC</color>
+            <color>99999944</color>
         </image>
         <!-- <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>

@@ -5,7 +5,7 @@
 
     <view name="system">
         <text name="systemYear" extra="true">
-            <text>2012</text>
+            <text>RELEASED 2012</text>
         </text>
         <text name="systemDescription" extra="true">
             <text>64-BIT EMULATION PLATFORM</text>
