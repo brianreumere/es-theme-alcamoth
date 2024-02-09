@@ -34,6 +34,12 @@ based on:       "Spare" by Matt Kennedy
             <size>1 0.07</size>
             <color>666666</color>
         </image>
+        <image name="helpShadow" extra="true">
+            <path>./_inc/images/shadow.png</path>
+            <origin>0 1</origin>
+            <pos>0 0.13</pos>
+            <tile>true</tile>
+        </image>
     </view>
 
     <view name="system">
