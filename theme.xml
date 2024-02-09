@@ -217,12 +217,18 @@ based on:       "Spare" by Matt Kennedy
         <image name="individualLabelHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>1 0.5</origin>
-            <pos>0.98 0.68</pos>
-            <size>0.13 0.024</size>
+            <pos>0.98 0.645625</pos>
+            <size>0.29 0.02</size>
             <color>1CFFCC55</color>
         </image>
         <text name="md_publisher">
             <pos>0.98 0.645625</pos>
+        </text>
+        <text name="md_lbl_developer">
+            <pos>0.72 0.689375</pos>
+        </text>
+        <text name="md_developer">
+            <pos>0.98 0.689375</pos>
         </text>
     </view>
 
