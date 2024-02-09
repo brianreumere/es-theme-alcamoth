@@ -179,7 +179,6 @@ based on:       "Spare" by Matt Kennedy
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
         </text>
-        <text name="md_developer, md_publisher, md_genre, md_players, md_playcount">
     </view>
 
     <view name="video"></view>
