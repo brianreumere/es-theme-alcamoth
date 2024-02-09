@@ -142,6 +142,13 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.29</pos>
             <maxSize>0.4 0.5</maxSize>
         </image>
+        <image name="descriptionHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.735</pos>
+            <size>0.36 0.31</size>
+            <color>88BB1733</color>
+        </image>
         <!-- Game description -->
         <text name="md_description">
             <origin>0.5 0.5</origin>
@@ -173,13 +180,13 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.85 0.29</pos>
             <maxSize>0.22 0.48</maxSize>
         </image>
-        <!-- <image name="labelSectionHelper" extra="true">
+        <image name="labelSectionHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0 0</origin>
             <pos>0.72 0.58</pos>
             <size>0.26 0.35</size>
             <color>1CFF1755</color>
-        </image> -->
+        </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
             <origin>0 0.5</origin>
             <size>0.13 0.04375</size>
