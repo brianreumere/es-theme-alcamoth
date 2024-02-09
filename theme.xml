@@ -189,7 +189,7 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
             <origin>0 0.5</origin>
-            <size>0.13 0.04375</size>
+            <size>0.8 0.04375</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
@@ -197,7 +197,7 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <text name="md_publisher, md_developer, md_genre, md_players, md_playcount">
             <origin>1 0.5</origin>
-            <size>0.13 0.04375</size>
+            <size>0.18 0.04375</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
@@ -206,7 +206,7 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <datetime name="md_releasedate, md_lastplayed">
             <origin>1 0.5</origin>
-            <size>0.13 0.02</size>
+            <size>0.18 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
@@ -214,7 +214,7 @@ based on:       "Spare" by Matt Kennedy
         </datetime>
         <rating name="md_rating">
             <origin>1 0.5</origin>
-            <size>0.13 0.02</size>
+            <size>0.18 0.02</size>
             <filledPath>./_inc/images/star_filled.svg</filledPath>
             <unfilledPath>./_inc/images/star_hollow.svg</unfilledPath>
         </rating>
