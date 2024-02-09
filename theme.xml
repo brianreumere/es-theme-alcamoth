@@ -53,7 +53,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="systemLogo" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.09666666</pos>
-            <maxSize>0.75 0.12</maxSize>
+            <maxSize>0.5 0.12</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
         <carousel name="systemcarousel">
