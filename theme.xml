@@ -212,7 +212,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.98 0.601875</pos>
         </datetime>
         <text name="md_lbl_publisher">
-            <pos>0.72 0.68</pos>
+            <pos>0.72 0.645625</pos>
         </text>
         <image name="individualLabelHelper" extra="true">
             <path>./_inc/images/background.png</path>
@@ -222,7 +222,7 @@ based on:       "Spare" by Matt Kennedy
             <color>1CFFCC55</color>
         </image>
         <text name="md_publisher">
-            <pos>0.98 0.68</pos>
+            <pos>0.98 0.645625</pos>
         </text>
     </view>
 
