@@ -177,7 +177,7 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/background.png</path>
             <origin>0 0</origin>
             <pos>0.72 0.58</pos>
-            <size>0.266 0.35</size>
+            <size>0.26 0.35</size>
             <color>1CFF1755</color>
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
