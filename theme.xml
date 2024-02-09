@@ -197,7 +197,7 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <text name="md_publisher, md_developer, md_genre, md_players, md_playcount">
             <origin>1 0.5</origin>
-            <size>0.18 0.04375</size>
+            <size>0.18 0.024</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
