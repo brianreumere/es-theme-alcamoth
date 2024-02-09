@@ -160,18 +160,18 @@ based on:       "Spare" by Matt Kennedy
             <size>0.3 0.93</size>
             <color>99999944</color>
         </image>
-        <!-- Game box art -->
-        <image name="boxArtBackground" extra="true">
+        <image name="boxArtHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
             <size>0.3 0.58</size>
             <color>1C1C17CC</color>
         </image>
+        <!-- Game box art -->
         <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
-            <maxSize>0.2 0.4</maxSize>
+            <maxSize>0.26 0.54</maxSize>
         </image>
         <image name="labelHelper" extra="true">
             <path>./_inc/images/background.png</path>
