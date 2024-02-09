@@ -38,7 +38,7 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/shadow.png</path>
             <origin>0 1</origin>
             <pos>0 0.93</pos>
-            <size>1 0.045</size>
+            <size>1 1</size>
             <tile>true</tile>
         </image>
     </view>
