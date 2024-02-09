@@ -80,7 +80,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.71</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F2CC</color>
+            <color>F8F8F4CC</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
@@ -90,7 +90,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.66</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F2CC</color>
+            <color>F8F8F4CC</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
@@ -100,7 +100,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.81</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F2CC</color>
+            <color>F8F8F4CC</color>
             <fontPath>./_inc/fonts/Nunito-Bold.ttf</fontPath>
             <fontSize>0.032</fontSize>
             <alignment>center</alignment>
