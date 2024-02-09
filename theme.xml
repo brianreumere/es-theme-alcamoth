@@ -108,18 +108,22 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="detailed">
+        <!-- Left column -->
+        <!-- Left column background color -->
         <image name="leftBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <pos>0 0</pos>
             <size>0.3 0.93</size>
             <color>99999944</color>
         </image>
+        <!-- Console/platform logo -->
         <image name="logo">
             <origin>0.5 0.5</origin>
             <pos>0.15 0.06</pos>
             <maxSize>0.26 0.06</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
+        <!-- Game list -->
         <textlist name="gamelist">
             <pos>0 0.1</pos>
             <size>0.3 0.81</size>
@@ -131,6 +135,7 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.025</fontSize>
             <horizontalMargin>0.02</horizontalMargin>
         </textlist>
+        <!-- Middle column -->
         <!-- Screenshot or video -->
         <image name="md_image">
             <origin>0.5 0.5</origin>
@@ -146,12 +151,8 @@ based on:       "Spare" by Matt Kennedy
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
         </text>
-        <!-- Game box art -->
-        <image name="md_thumbnail">
-            <origin>0.5 0.5</origin>
-            <pos>0.85 0.29</pos>
-            <maxSize>0.2 0.4</maxSize>
-        </image>
+        <!-- Right column -->
+        <!-- Right column background color -->
         <image name="rightBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>1 0</origin>
@@ -159,19 +160,26 @@ based on:       "Spare" by Matt Kennedy
             <size>0.3 0.93</size>
             <color>99999944</color>
         </image>
-        <!-- <image name="boxArtBackground" extra="true">
+        <!-- Game box art -->
+        <image name="md_thumbnail">
+            <origin>0.5 0.5</origin>
+            <pos>0.85 0.29</pos>
+            <maxSize>0.2 0.4</maxSize>
+        </image>
+        <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
-            <size>0.242 0.5005</size>
+            <size>0.3 0.58</size>
             <color>1C1C17CC</color>
-        </image> -->
+        </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
             <color>F8F8F2</color>
             <forceUppercase>1</forceUppercase>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
         </text>
+        <text name="md_developer, md_publisher, md_genre, md_players, md_playcount">
     </view>
 
     <view name="video"></view>
