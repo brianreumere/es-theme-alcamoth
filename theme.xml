@@ -170,7 +170,7 @@ based on:       "Spare" by Matt Kennedy
             <color>F8F8F2</color>
             <forceUppercase>1</forceUppercase>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
-            <fontSize>0.03</fontSize>
+            <fontSize>0.024</fontSize>
         </text>
     </view>
 
