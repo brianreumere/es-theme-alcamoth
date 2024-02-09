@@ -58,7 +58,7 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <text name="systemYear" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.73</pos>
+            <pos>0.5 0.78</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
@@ -68,7 +68,7 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <text name="systemDescription" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.78</pos>
+            <pos>0.5 0.73</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F2CC</color>
