@@ -163,7 +163,7 @@ based on:       "Spare" by Matt Kennedy
         <!-- Game box art -->
         <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
-            <pos>0.85 0.25</pos>
+            <pos>0.85 0.29</pos>
             <maxSize>0.2 0.4</maxSize>
         </image>
         <image name="boxArtBackground" extra="true">
