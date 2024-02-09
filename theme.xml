@@ -148,7 +148,7 @@ based on:       "Spare" by Matt Kennedy
         <!-- Game box art -->
         <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
-            <pos>0.84 0.29</pos>
+            <pos>0.85 0.29</pos>
             <maxSize>0.16 0.415</maxSize>
         </image>
         <image name="gameInfoBackground" extra="true">
@@ -161,7 +161,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
-            <pos>0.84 0.29</pos>
+            <pos>0.85 0.29</pos>
             <size>0.242 0.5005</size>
             <color>1C1C17CC</color>
         </image>
