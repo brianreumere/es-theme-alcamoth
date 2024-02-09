@@ -1,0 +1,19 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+    <view name="system">
+        <text name="systemYear" extra="true">
+            <text>RELEASED 1993</text>
+        </text>
+        <text name="systemDescription" extra="true">
+            <text>32-BIT CONSOLE</text>
+         </text>
+    </view>
+
+    <view name="basic"></view>
+    <view name="detailed"></view>
+    <view name="video"></view>
+
+</theme>
