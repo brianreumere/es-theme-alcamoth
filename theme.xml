@@ -161,11 +161,6 @@ based on:       "Spare" by Matt Kennedy
             <color>99999944</color>
         </image>
         <!-- Game box art -->
-        <image name="md_thumbnail">
-            <origin>0.5 0.5</origin>
-            <pos>0.85 0.29</pos>
-            <maxSize>0.2 0.4</maxSize>
-        </image>
         <image name="boxArtBackground" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
@@ -173,7 +168,20 @@ based on:       "Spare" by Matt Kennedy
             <size>0.3 0.58</size>
             <color>1C1C17CC</color>
         </image>
+        <image name="md_thumbnail">
+            <origin>0.5 0.5</origin>
+            <pos>0.85 0.29</pos>
+            <maxSize>0.2 0.4</maxSize>
+        </image>
+        <image name="labelHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0 0</origin>
+            <pos>0.72 0.58</pos>
+            <size>0.3 0.58</size>
+            <color>1C1C17CC</color>
+        </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+            <size>0.24 0.01</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
