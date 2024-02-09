@@ -46,13 +46,13 @@ based on:       "Spare" by Matt Kennedy
         <image name="systemLogoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0</origin>
-            <pos>0.5 0.09666666</pos>
+            <pos>0.5 0.09</pos>
             <size>0.5 0.1</size>
             <color>1133CC33</color>
         </image>
         <image name="systemLogo" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.5 0.09666666</pos>
+            <pos>0.5 0.09</pos>
             <maxSize>0.5 0.1</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
