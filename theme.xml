@@ -175,7 +175,6 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
             <color>F8F8F2</color>
-            <forceUppercase>1</forceUppercase>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
         </text>
