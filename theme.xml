@@ -205,6 +205,12 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.024</fontSize>
             <alignment>right</alignment>
         </datetime>
+        <rating name="md_rating">
+            <origin>1 0.5</origin>
+            <size>0.29 0.02</size>
+            <filledPath>./_inc/images/star_full.svg</filledPath>
+            <unfilledPath>./_inc/images/star_hollow.svg</unfilledPath>
+        </rating>
         <text name="md_lbl_releasedate">
             <pos>0.72 0.601875</pos>
         </text>
@@ -230,6 +236,12 @@ based on:       "Spare" by Matt Kennedy
         <text name="md_developer">
             <pos>0.98 0.689375</pos>
         </text>
+        <text name="md_lbl_rating">
+            <pos>0.72 0.733125</pos>
+        </text>
+        <rating name="md_rating">
+            <pos>0.98 0.733125</pos>
+        </rating>
     </view>
 
     <view name="video"></view>
