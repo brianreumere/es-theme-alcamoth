@@ -43,6 +43,13 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="system">
+        <image name="systemLogoHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0</origin>
+            <pos>0.5 0.09666666</pos>
+            <size>0.75 0.09259259259</size>
+            <color>1133CC33</color>
+        </image>
         <image name="systemLogo" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.09666666</pos>
