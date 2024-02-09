@@ -171,7 +171,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
-            <maxSize>0.26 0.54</maxSize>
+            <maxSize>0.22 0.48</maxSize>
         </image>
         <image name="labelHelper" extra="true">
             <path>./_inc/images/background.png</path>
