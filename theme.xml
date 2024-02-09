@@ -181,16 +181,16 @@ based on:       "Spare" by Matt Kennedy
             <color>1CFF1755</color>
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-            <origin>0 0</origin>
-            <size>0.13 0.024</size>
+            <origin>0 0.5</origin>
+            <size>0.13 0.04375</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Medium.ttf</fontPath>
             <fontSize>0.024</fontSize>
             <forceUppercase>0</forceUppercase>
         </text>
         <text name="md_publisher, md_developer, md_genre, md_players, md_playcount">
-            <origin>1 0</origin>
-            <size>0.13 0.024</size>
+            <origin>1 0.5</origin>
+            <size>0.13 0.04375</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
             <fontSize>0.024</fontSize>
@@ -198,7 +198,7 @@ based on:       "Spare" by Matt Kennedy
             <forceUppercase>0</forceUppercase>
         </text>
         <datetime name="md_releasedate, md_lastplayed">
-            <origin>1 0</origin>
+            <origin>1 0.5</origin>
             <size>0.29 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
@@ -206,17 +206,17 @@ based on:       "Spare" by Matt Kennedy
             <alignment>right</alignment>
         </datetime>
         <text name="md_lbl_releasedate">
-            <pos>0.72 0.58</pos>
+            <pos>0.72 0.601875</pos>
         </text>
         <datetime name="md_releasedate">
-            <pos>0.98 0.59</pos>
+            <pos>0.98 0.601875</pos>
         </datetime>
         <text name="md_lbl_publisher">
             <pos>0.72 0.68</pos>
         </text>
         <image name="individualLabelHelper" extra="true">
             <path>./_inc/images/background.png</path>
-            <origin>1 0</origin>
+            <origin>1 0.5</origin>
             <pos>0.98 0.68</pos>
             <size>0.13 0.024</size>
             <color>1CFFCC55</color>
