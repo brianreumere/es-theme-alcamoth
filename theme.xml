@@ -208,7 +208,7 @@ based on:       "Spare" by Matt Kennedy
         <rating name="md_rating">
             <origin>1 0.5</origin>
             <size>0.29 0.02</size>
-            <filledPath>./_inc/images/star_full.svg</filledPath>
+            <filledPath>./_inc/images/star_filled.svg</filledPath>
             <unfilledPath>./_inc/images/star_hollow.svg</unfilledPath>
         </rating>
         <text name="md_lbl_releasedate">
