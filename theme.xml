@@ -225,7 +225,7 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.98 0.601875</pos>
         </datetime>
         <text name="md_lbl_publisher">
-            <pos>0.72 0.645625</pos>
+            <pos>0.72 0.640625</pos>
         </text>
         <!-- <image name="individualLabelHelper" extra="true">
             <path>./_inc/images/background.png</path>
@@ -235,43 +235,43 @@ based on:       "Spare" by Matt Kennedy
             <color>1CFFCC55</color>
         </image> -->
         <text name="md_publisher">
-            <pos>0.98 0.645625</pos>
+            <pos>0.98 0.640625</pos>
         </text>
         <text name="md_lbl_developer">
-            <pos>0.72 0.689375</pos>
+            <pos>0.72 0.679375</pos>
         </text>
         <text name="md_developer">
-            <pos>0.98 0.689375</pos>
+            <pos>0.98 0.679375</pos>
         </text>
         <text name="md_lbl_rating">
-            <pos>0.72 0.733125</pos>
+            <pos>0.72 0.718125</pos>
         </text>
         <rating name="md_rating">
-            <pos>0.98 0.733125</pos>
+            <pos>0.98 0.718125</pos>
         </rating>
         <text name="md_lbl_genre">
-            <pos>0.72 0.776875</pos>
+            <pos>0.72 0.756875</pos>
         </text>
         <text name="md_genre">
-            <pos>0.98 0.776875</pos>
+            <pos>0.98 0.756875</pos>
         </text>
         <text name="md_lbl_players">
-            <pos>0.72 0.820625</pos>
+            <pos>0.72 0.795625</pos>
         </text>
         <text name="md_players">
-            <pos>0.98 0.820625</pos>
+            <pos>0.98 0.795625</pos>
         </text>
         <text name="md_lbl_lastplayed">
-            <pos>0.72 0.864375</pos>
+            <pos>0.72 0.834375</pos>
         </text>
         <datetime name="md_lastplayed">
-            <pos>0.98 0.864375</pos>
+            <pos>0.98 0.834375</pos>
         </datetime>
         <text name="md_lbl_playcount">
-            <pos>0.72 0.908125</pos>
+            <pos>0.72 0.873125</pos>
         </text>
         <text name="md_playcount">
-            <pos>0.98 0.908125</pos>
+            <pos>0.98 0.873125</pos>
         </text>
     </view>
 
