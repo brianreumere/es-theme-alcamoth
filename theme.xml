@@ -165,7 +165,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>1 0</origin>
             <pos>1 0</pos>
             <size>0.3 0.93</size>
-            <color>99999944</color>
+            <color>66666622</color>
         </image>
         <!-- <image name="boxArtHelper" extra="true">
             <path>./_inc/images/background.png</path>
