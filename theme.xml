@@ -43,18 +43,25 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="system">
-        <!-- <image name="systemLogoHelper" extra="true">
+        <image name="systemLogoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0</origin>
             <pos>0.5 0.09666666</pos>
             <size>0.75 0.12</size>
             <color>1133CC33</color>
-        </image> -->
+        </image>
         <image name="systemLogo" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.09666666</pos>
             <maxSize>0.5 0.12</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
+        </image>
+        <image name="carouselHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.43</pos>
+            <size>1 0.48</size>
+            <color>DD338833</color>
         </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>
