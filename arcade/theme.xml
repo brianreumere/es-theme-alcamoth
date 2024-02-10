@@ -5,10 +5,10 @@
 
     <view name="system">
         <text name="systemYear" extra="true">
-            <text>FIRST CREATED 1971</text>
+            <text>CREATED 1971</text>
         </text>
         <text name="systemDescription" extra="true">
-            <text>COIN-OPERATED CABINETS</text>
+            <text>COIN-OP CABINET</text>
          </text>
     </view>
 
