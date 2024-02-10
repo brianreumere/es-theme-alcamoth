@@ -122,7 +122,7 @@ based on:       "Spare" by Matt Kennedy
             <primaryColor>F8F8F2</primaryColor>
             <secondaryColor>F8F8F2</secondaryColor>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.03</fontSize>
+            <fontSize>0.032</fontSize>
         </textlist>
     </view>
 
@@ -151,7 +151,7 @@ based on:       "Spare" by Matt Kennedy
             <primaryColor>F8F8F2</primaryColor>
             <secondaryColor>F8F8F2</secondaryColor>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.028</fontSize>
+            <fontSize>0.032</fontSize>
             <horizontalMargin>0.02</horizontalMargin>
         </textlist>
         <!-- Middle column -->
@@ -175,7 +175,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.36 0.31</size>
             <color>FFFFFF</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.024</fontSize>
+            <fontSize>0.026</fontSize>
         </text>
         <!-- Right column -->
         <!-- Right column background color -->
@@ -211,7 +211,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.8 0.024</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Nunito-Bold.ttf</fontPath>
-            <fontSize>0.024</fontSize>
+            <fontSize>0.026</fontSize>
             <forceUppercase>0</forceUppercase>
         </text>
         <text name="md_publisher, md_developer, md_genre, md_players, md_playcount">
@@ -219,7 +219,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.18 0.024</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.024</fontSize>
+            <fontSize>0.026</fontSize>
             <alignment>right</alignment>
             <forceUppercase>0</forceUppercase>
         </text>
@@ -228,7 +228,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.18 0.02</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.024</fontSize>
+            <fontSize>0.026</fontSize>
             <alignment>right</alignment>
         </datetime>
         <rating name="md_rating">
