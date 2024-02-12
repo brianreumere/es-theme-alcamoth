@@ -31,7 +31,7 @@ Console header logos are from Dan Patrick (see [Sublicenses](#sublicenses)). To 
 
 ## Theme
 
-[Creating Your Own EmulationStation Theme](https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/) and the [EmulationStation themes reference documentation] were helpful in creating the theme.
+[Creating Your Own EmulationStation Theme](https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/) and the [EmulationStation themes reference documentation](https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md) were helpful in creating the theme.
 
 ### Scraping and game data
 
