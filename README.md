@@ -49,6 +49,6 @@ All trademarks and logos used are the property of their respective owners.
 
 - Controller images by Pineapple Graphics ([archive.org](https://archive.org/details/full-color-pngs), [Instagram](https://www.instagram.com/pineapple.graphics/))
 - Console logos by Dan Patrick ([archive.org](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), [LaunchBox forums](https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/))
-- The RetroPie logo by Florian Müller and [licensed under the CC BY-NC-ND 4.0 International license](https://retropie.org.uk/about/logo-and-logo-license/)
+- RetroPie logo by Florian Müller and [licensed under the CC BY-NC-ND 4.0 license](https://retropie.org.uk/about/logo-and-logo-license/)
 - Background image [Micro Carbon Pattern by Atle Mo](https://www.toptal.com/designers/subtlepatterns/micro-carbon/)
-- [Nunito font](https://github.com/googlefonts/nunito) by Vernon Adams and [licensed under the Open Font License version 1.1](https://github.com/googlefonts/nunito?tab=OFL-1.1-1-ov-file#readme)
+- Nunito font by Vernon Adams and [licensed under the Open Font License version 1.1](https://github.com/googlefonts/nunito?tab=OFL-1.1-1-ov-file#readme)
