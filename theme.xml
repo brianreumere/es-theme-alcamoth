@@ -3,10 +3,9 @@ theme name:     Alcamoth
 version:        0.1
 author:         Brian Reumere
 email:          brian@mutualaid.info
-website:        https://mutualaid.info
-license:        Creative Commons CC-BY-NC-SA 4.0
+website:        https://github.com/brianreumere/es-theme-alcamoth
+license:        BSD 2-Clause
 based on:       "Spare" by Matt Kennedy
-                "Chicuelo" by Chicuelo
 -->
 
 <theme>
@@ -48,7 +47,7 @@ based on:       "Spare" by Matt Kennedy
             <origin>0.5 0</origin>
             <pos>0.5 0.09</pos>
             <size>0.5 0.1</size>
-            <color>1133CC33</color>
+            <color>50FA7B44</color>
         </image> -->
         <image name="systemLogo" extra="true">
             <origin>0.5 0</origin>
@@ -56,12 +55,12 @@ based on:       "Spare" by Matt Kennedy
             <maxSize>0.38 0.11</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
-        <!-- <image name="carouselHelper" extra="true">
+        <!-- <image name="systemcarouselHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.43</pos>
             <size>1 0.48</size>
-            <color>DD338833</color>
+            <color>FFB86C44</color>
         </image> -->
         <carousel name="systemcarousel">
             <type>horizontal</type>
@@ -75,6 +74,13 @@ based on:       "Spare" by Matt Kennedy
         <image name="logo">
             <path>./_inc/images/controllers/${system.theme}.png</path>
         </image>
+        <!-- <image name="systemYearHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0</origin>
+            <pos>0.5 0.71</pos>
+            <size>0.75 0.04</size>
+            <color>FF79C644</color>
+        </image> -->
         <text name="systemYear" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.71</pos>
@@ -85,6 +91,13 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
+        <!-- <image name="systemDescriptionHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0</origin>
+            <pos>0.5 0.66</pos>
+            <size>0.75 0.04</size>
+            <color>BD93F944</color>
+        </image> -->
         <text name="systemDescription" extra="true">
             <origin>0.5 0</origin>
             <pos>0.5 0.66</pos>
@@ -95,6 +108,13 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
+        <!-- <image name="systemDescriptionHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0</origin>
+            <pos>0.5 0.81</pos>
+            <size>0.75 0.04</size>
+            <color>FF555544</color>
+        </image> -->
         <text name="systemInfo">
             <origin>0.5 0</origin>
             <pos>0.5 0.81</pos>
@@ -126,7 +146,7 @@ based on:       "Spare" by Matt Kennedy
         </textlist>
     </view>
 
-    <view name="detailed">
+    <view name="detailed, video">
         <!-- Left column -->
         <!-- Left column background color -->
         <image name="leftBackground" extra="true">
@@ -136,6 +156,13 @@ based on:       "Spare" by Matt Kennedy
             <color>66666622</color>
         </image>
         <!-- Console/platform logo -->
+        <!-- <image name="logoHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0.5</origin>
+            <pos>0.15 0.06</pos>
+            <size>0.26 0.06</size>
+            <color>50FA7B44</color>
+        </image> -->
         <image name="logo">
             <origin>0.5 0.5</origin>
             <pos>0.15 0.06</pos>
@@ -143,7 +170,15 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
         <!-- Game list -->
+        <!-- <image name="gamelistHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0 0</origin>
+            <pos>0 0.1</pos>
+            <size>0.3 0.81</size>
+            <color>FFB86C44</color>
+        </image> -->
         <textlist name="gamelist">
+            <origin>0 0</origin>
             <pos>0 0.1</pos>
             <size>0.3 0.81</size>
             <selectorColor>F8F8F2</selectorColor>
@@ -155,20 +190,15 @@ based on:       "Spare" by Matt Kennedy
             <horizontalMargin>0.02</horizontalMargin>
         </textlist>
         <!-- Middle column -->
-        <!-- Screenshot or video -->
-        <image name="md_image">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.29</pos>
-            <maxSize>0.36 0.5</maxSize>
-        </image>
+        <!-- Screenshot or video is in detailed or video view -->
+        <!-- Game description -->
         <!-- <image name="descriptionHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.735</pos>
             <size>0.36 0.31</size>
-            <color>88BB1733</color>
+            <color>BD93F944</color>
         </image> -->
-        <!-- Game description -->
         <text name="md_description">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.735</pos>
@@ -186,12 +216,12 @@ based on:       "Spare" by Matt Kennedy
             <size>0.3 0.93</size>
             <color>66666622</color>
         </image>
-        <!-- <image name="boxArtHelper" extra="true">
+        <!-- <image name="thumbnailHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
-            <size>0.3 0.58</size>
-            <color>1C1C17CC</color>
+            <size>0.26 0.46</size>
+            <color>FF555544</color>
         </image> -->
         <!-- Game box art -->
         <image name="md_thumbnail">
@@ -199,12 +229,13 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.85 0.29</pos>
             <maxSize>0.26 0.46</maxSize>
         </image>
+        <!-- Game metadata -->
         <!-- <image name="labelSectionHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0 0</origin>
             <pos>0.72 0.58</pos>
             <size>0.26 0.31</size>
-            <color>1CFF1744</color>
+            <color>F1FA8C44</color>
         </image> -->
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
             <origin>0 0.5</origin>
@@ -225,7 +256,7 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <datetime name="md_releasedate, md_lastplayed">
             <origin>1 0.5</origin>
-            <size>0.18 0.02</size>
+            <size>0.18 0.024</size>
             <color>F8F8F2</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
             <fontSize>0.026</fontSize>
@@ -233,10 +264,17 @@ based on:       "Spare" by Matt Kennedy
         </datetime>
         <rating name="md_rating">
             <origin>1 0.5</origin>
-            <size>0 0.02</size>
+            <size>0 0.024</size>
             <filledPath>./_inc/images/star_filled.svg</filledPath>
             <unfilledPath>./_inc/images/star_hollow.svg</unfilledPath>
         </rating>
+        <!-- <image name="labelHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>1 0.5</origin>
+            <pos>0.72 0.601875</pos>
+            <size>0.18 0.024</size>
+            <color>8BE9FD44</color>
+        </image> -->
         <text name="md_lbl_releasedate">
             <pos>0.72 0.601875</pos>
         </text>
@@ -246,13 +284,6 @@ based on:       "Spare" by Matt Kennedy
         <text name="md_lbl_publisher">
             <pos>0.72 0.640625</pos>
         </text>
-        <!-- <image name="individualLabelHelper" extra="true">
-            <path>./_inc/images/background.png</path>
-            <origin>1 0.5</origin>
-            <pos>0.98 0.645625</pos>
-            <size>0.13 0.02</size>
-            <color>1CFFCC55</color>
-        </image> -->
         <text name="md_publisher">
             <pos>0.98 0.640625</pos>
         </text>
@@ -294,6 +325,37 @@ based on:       "Spare" by Matt Kennedy
         </text>
     </view>
 
-    <view name="video"></view>
+    <view name="detailed">
+        <!-- <image name="imageHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.29</pos>
+            <size>0.36 0.5</size>
+            <color>FF79C644</color>
+        </image> -->
+        <image name="md_image">
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.29</pos>
+            <maxSize>0.36 0.5</maxSize>
+        </image>
+    </view>
+
+    <feature supported="video">
+        <view name="video">
+            <!-- <image name="videoHelper" extra="true">
+                <path>./_inc/images/background.png</path>
+                <origin>0.5 0.5</origin>
+                <pos>0.5 0.29</pos>
+                <size>0.36 0.5</size>
+                <color>FF79C644</color>
+            </image> -->
+            <video name="md_video">
+                <origin>0.5 0.5</origin>
+                <pos>0.5 0.29</pos>
+                <maxSize>0.36 0.5</maxSize>
+                <showSnapshotNoVideo>true</showSnapshotNoVideo>
+            </image>
+        </view>
+    </feature>
 
 </theme>
