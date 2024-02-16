@@ -224,7 +224,7 @@ based on:       "Spare" by Matt Kennedy
             <color>FF555544</color>
         </image> -->
         <!-- Game box art -->
-        <image name="md_thumbnail">
+        <image name="md_image">
             <origin>0.5 0.5</origin>
             <pos>0.85 0.29</pos>
             <maxSize>0.26 0.46</maxSize>
@@ -333,7 +333,7 @@ based on:       "Spare" by Matt Kennedy
             <size>0.36 0.5</size>
             <color>FF79C644</color>
         </image> -->
-        <image name="md_image">
+        <image name="md_thumbnail">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.29</pos>
             <maxSize>0.36 0.5</maxSize>
