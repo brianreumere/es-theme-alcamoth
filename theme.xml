@@ -84,13 +84,13 @@ based on:       "Spare" by Matt Kennedy
         </image>
         <image name="systemYearHelper" extra="true">
             <path>./_inc/images/background.png</path>
-            <origin>0.5 0</origin>
+            <origin>0.5 0.5</origin>
             <pos>0.5 0.71</pos>
             <size>0.75 0.04</size>
             <color>FF79C644</color>
         </image>
         <text name="systemYear" extra="true">
-            <origin>0.5 0</origin>
+            <origin>0.5 0.5</origin>
             <pos>0.5 0.71</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
@@ -101,30 +101,30 @@ based on:       "Spare" by Matt Kennedy
         </text>
         <image name="systemDescriptionHelper" extra="true">
             <path>./_inc/images/background.png</path>
-            <origin>0.5 0</origin>
-            <pos>0.5 0.66</pos>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.80625</pos>
             <size>0.75 0.04</size>
             <color>BD93F944</color>
         </image>
         <text name="systemDescription" extra="true">
-            <origin>0.5 0</origin>
-            <pos>0.5 0.66</pos>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.80625</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F4CC</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.04</fontSize>
+            <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
         <image name="systemInfoHelper" extra="true">
             <path>./_inc/images/background.png</path>
-            <origin>0.5 0</origin>
+            <origin>0.5 0.5</origin>
             <pos>0.5 0.81</pos>
             <size>0.75 0.04</size>
             <color>FF555544</color>
         </image>
         <text name="systemInfo">
-            <origin>0.5 0</origin>
+            <origin>0.5 0.5</origin>
             <pos>0.5 0.81</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
