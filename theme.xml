@@ -76,7 +76,7 @@ based on:       "Spare" by Matt Kennedy
             <size>1 0.48</size>
             <color>40404000</color>
             <logoSize>0.38 0.38</logoSize>
-            <logoScale>1</logoScale>
+            <logoScale>0.5</logoScale>
         </carousel>
         <image name="logo">
             <path>./_inc/images/controllers/${system.theme}.png</path>
