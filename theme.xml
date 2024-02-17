@@ -66,7 +66,7 @@ based on:       "Spare" by Matt Kennedy
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.43</pos>
-            <size>0.38 0.38</size>
+            <size>0.38 0.6175</size>
             <color>8BE9FD44</color>
         </image>
         <carousel name="systemcarousel">
@@ -75,9 +75,9 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.43</pos>
             <size>1 0.48</size>
             <color>40404000</color>
-            <logoSize>0.38 0.38</logoSize>
+            <logoSize>0.38 0.</logoSize>
             <logoScale>1</logoScale>
-            <maxLogoCount>1</maxLogoCount>
+            <maxLogoCount>3</maxLogoCount>
         </carousel>
         <image name="logo">
             <path>./_inc/images/controllers/${system.theme}.png</path>
