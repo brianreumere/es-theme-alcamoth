@@ -361,6 +361,7 @@ based on:       "Spare" by Matt Kennedy
                 <origin>0.5 0.5</origin>
                 <pos>0.5 0.29</pos>
                 <maxSize>0.36 0.5</maxSize>
+                <delay>2</delay>
                 <showSnapshotNoVideo>true</showSnapshotNoVideo>
                 <showSnapshotDelay>true</showSnapshotDelay>
             </video>
