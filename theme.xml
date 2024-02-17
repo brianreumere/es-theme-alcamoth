@@ -113,7 +113,7 @@ based on:       "Spare" by Matt Kennedy
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F4CC</color>
             <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.036</fontSize>
+            <fontSize>0.04</fontSize>
             <alignment>center</alignment>
         </text>
         <image name="systemInfoHelper" extra="true">
