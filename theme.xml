@@ -45,8 +45,8 @@ based on:       "Spare" by Matt Kennedy
         <image name="systemLogoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0</origin>
-            <pos>0.5 0.09</pos>
-            <size>0.5 0.1</size>
+            <pos>0.5 0.08</pos>
+            <size>0.38 0.11</size>
             <color>50FA7B44</color>
         </image>
         <image name="systemLogo" extra="true">
@@ -61,6 +61,13 @@ based on:       "Spare" by Matt Kennedy
             <pos>0.5 0.43</pos>
             <size>1 0.48</size>
             <color>FFB86C44</color>
+        </image>
+        <image name="systemcarouselLogoHelper" extra="true">
+            <path>./_inc/images/background.png</path>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.43</pos>
+            <size>0.38 0.38</size>
+            <color>8BE9FD44</color>
         </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>
