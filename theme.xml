@@ -362,7 +362,7 @@ based on:       "Spare" by Matt Kennedy
                 <pos>0.5 0.29</pos>
                 <maxSize>0.36 0.5</maxSize>
                 <delay>0</delay>
-                <showSnapshotNoVideo>false</showSnapshotNoVideo>
+                <showSnapshotNoVideo>true</showSnapshotNoVideo>
                 <showSnapshotDelay>false</showSnapshotDelay>
             </video>
         </view>
