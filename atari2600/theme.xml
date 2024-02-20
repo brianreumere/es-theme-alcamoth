@@ -5,7 +5,7 @@
 
     <view name="system">
         <text name="systemDescription" extra="true">
-            <text>8-BIT CONSOLE — RELEASED 1977</text>
+            <text>8-BIT CONSOLE – RELEASED 1977</text>
          </text>
     </view>
 
