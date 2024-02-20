@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>RELEASED 2001</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>32-BIT HANDHELD CONSOLE</text>
+            <text>6TH GENERATION 32-BIT HANDHELD CONSOLE, RELEASED 2001</text>
          </text>
     </view>
 

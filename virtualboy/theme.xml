@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>RELEASED 1995</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>32-BIT TABLETOP CONSOLE</text>
+            <text>5TH GENERATION 32-BIT TABLETOP CONSOLE, RELEASED 1995</text>
          </text>
     </view>
 

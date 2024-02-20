@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>RELEASED 1989</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>8-BIT HANDHELD CONSOLE</text>
+            <text>4TH GENERATION 8-BIT HANDHELD CONSOLE, RELEASED 1989</text>
          </text>
     </view>
 

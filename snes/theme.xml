@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>RELEASED 1990</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>16-BIT CONSOLE</text>
+            <text>4TH GENERATION 16-BIT CONSOLE, RELEASED 1990</text>
          </text>
     </view>
 

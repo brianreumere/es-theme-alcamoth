@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>MULTIPLE RELEASE DATES</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>ALL GAMES COLLECTION</text>
+            <text>ALL GAMES IN YOUR LIBRARY</text>
          </text>
     </view>
 
