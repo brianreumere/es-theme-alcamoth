@@ -5,7 +5,7 @@
 
     <view name="system">
         <text name="systemDescription" extra="true">
-            <text>LAST PLAYED GAMES</text>
+            <text>LAST PLAYED COLLECTION</text>
          </text>
     </view>
 

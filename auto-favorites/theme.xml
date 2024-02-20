@@ -5,7 +5,7 @@
 
     <view name="system">
         <text name="systemDescription" extra="true">
-            <text>YOUR FAVORITE GAMES</text>
+            <text>FAVORITES COLLECTION</text>
          </text>
     </view>
 

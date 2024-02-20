@@ -5,7 +5,7 @@
 
     <view name="system">
         <text name="systemDescription" extra="true">
-            <text>ALL GAMES IN YOUR LIBRARY</text>
+            <text>ALL GAMES COLLECTION</text>
          </text>
     </view>
 
