@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>CREATED 1971</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>COIN-OP CABINETS</text>
+            <text>COIN-OP CABINETS – CREATED 1971</text>
          </text>
     </view>
 
