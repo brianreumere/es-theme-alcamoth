@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.3855747"
-     inkscape:cx="379.26501"
-     inkscape:cy="148.67477"
-     inkscape:window-width="1800"
+     inkscape:cx="136.76635"
+     inkscape:cy="155.89199"
+     inkscape:window-width="904"
      inkscape:window-height="1037"
      inkscape:window-x="0"
      inkscape:window-y="44"
@@ -106,15 +106,15 @@
        id="path8" />
     <path
        d="m 15.136027,4.3397868 c -0.57601,-6.47e-5 -1.042964,0.4085781 -1.04283,0.9126058 v 5.4115564 c 1.92e-4,0.503825 0.467051,0.912153 1.04283,0.912089 H 45.05048 c 0.57578,6.4e-5 1.042638,-0.408264 1.042831,-0.912089 V 5.2523926 C 46.093444,4.7483649 45.626491,4.3397221 45.05048,4.3397868 Z"
-       style="fill:#455cff;stroke:#f9ffff;stroke-width:1.058;paint-order:markers fill stroke"
+       style="fill:#0057ff;stroke:#f9ffff;stroke-width:1.058;paint-order:markers fill stroke;fill-opacity:1"
        id="path3" />
     <path
        d="m 15.136027,24.527185 c -0.57601,-6.5e-5 -1.042964,0.408578 -1.04283,0.912606 v 5.411556 c 1.92e-4,0.503825 0.467051,0.912154 1.04283,0.912089 H 45.05048 c 0.57578,6.5e-5 1.042638,-0.408264 1.042831,-0.912089 v -5.411556 c 1.33e-4,-0.504028 -0.46682,-0.912671 -1.042831,-0.912606 z"
-       style="fill:#455cff;stroke:#f9ffff;stroke-width:1.058;paint-order:markers fill stroke"
+       style="fill:#0057ff;stroke:#f9ffff;stroke-width:1.058;paint-order:markers fill stroke;fill-opacity:1"
        id="path2" />
     <path
        d="m 15.136027,14.433744 a 1.0426967,0.91239422 0 0 0 -1.04283,0.912089 v 5.411556 a 1.0426967,0.91239422 0 0 0 1.04283,0.912606 H 45.05048 a 1.0426967,0.91239422 0 0 0 1.042831,-0.912606 V 15.345833 A 1.0426967,0.91239422 0 0 0 45.05048,14.433744 Z"
-       style="fill:#455cff;stroke:#f9ffff;stroke-width:1.058;paint-order:markers fill stroke"
+       style="fill:#0057ff;stroke:#f9ffff;stroke-width:1.058;paint-order:markers fill stroke;fill-opacity:1"
        id="path1" />
   </g>
 </svg>
