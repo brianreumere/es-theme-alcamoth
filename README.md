@@ -51,5 +51,5 @@ All trademarks and logos used are the property of their respective owners.
 - Console logos by Dan Patrick ([archive.org](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions_202203), [LaunchBox forums](https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/))
 - Myau sprite (used for all games collection) by Ultimecia ([Sprite Database](https://spritedatabase.net/file/4553))
 - RetroPie logo by Florian Müller and [licensed under the CC BY-NC-ND 4.0 license](https://retropie.org.uk/about/logo-and-logo-license/)
-- Background image [Micro Carbon Pattern by Atle Mo](https://www.toptal.com/designers/subtlepatterns/micro-carbon/)
+- Background image [Binding Dark by Tia Newbury](https://www.toptal.com/designers/subtlepatterns/binding-dark/)
 - Nunito font by Vernon Adams and [licensed under the Open Font License version 1.1](https://github.com/googlefonts/nunito?tab=OFL-1.1-1-ov-file#readme)
