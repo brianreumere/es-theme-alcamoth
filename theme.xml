@@ -42,33 +42,33 @@ based on:       "Spare" by Matt Kennedy
     </view>
 
     <view name="system">
-        <image name="systemLogoHelper" extra="true">
+        <!-- <image name="systemLogoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.0825</pos>
             <size>0.38 0.11</size>
             <color>50FA7B44</color>
-        </image>
+        </image> -->
         <image name="systemLogo" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.0825</pos>
             <maxSize>0.38 0.11</maxSize>
             <path>./_inc/images/logos/${system.theme}.svg</path>
         </image>
-        <image name="systemcarouselHelper" extra="true">
+        <!-- <image name="systemcarouselHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.465</pos>
             <size>1.5 0.6</size>
             <color>FFB86C44</color>
-        </image>
-        <image name="systemcarouselLogoHelper" extra="true">
+        </image> -->
+        <!-- <image name="systemcarouselLogoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.465</pos>
             <size>0.5 0.6</size>
             <color>8BE9FD44</color>
-        </image>
+        </image> -->
         <carousel name="systemcarousel">
             <type>horizontal</type>
             <origin>0.5 0.5</origin>
@@ -82,23 +82,13 @@ based on:       "Spare" by Matt Kennedy
         <image name="logo">
             <path>./_inc/images/controllers/${system.theme}.png</path>
         </image>
-        <text name="systemYear" extra="true">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.8475</pos>
-            <size>0.75 0.04</size>
-            <backgroundColor>00000000</backgroundColor>
-            <color>F8F8F4CC</color>
-            <fontPath>./_inc/fonts/Nunito-Light.ttf</fontPath>
-            <fontSize>0.036</fontSize>
-            <alignment>center</alignment>
-        </text>
-        <image name="systemDescriptionHelper" extra="true">
+        <!-- <image name="systemDescriptionHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.80625</pos>
             <size>0.75 0.04</size>
             <color>BD93F944</color>
-        </image>
+        </image> -->
         <text name="systemDescription" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.80625</pos>
@@ -109,13 +99,13 @@ based on:       "Spare" by Matt Kennedy
             <fontSize>0.036</fontSize>
             <alignment>center</alignment>
         </text>
-        <image name="systemInfoHelper" extra="true">
+        <!-- <image name="systemInfoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
             <pos>0.5 0.8475</pos>
             <size>0.75 0.04</size>
             <color>FF555544</color>
-        </image>
+        </image> -->
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.8475</pos>
