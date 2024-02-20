@@ -4,11 +4,8 @@
     <include>./../theme.xml</include>
 
     <view name="system">
-        <text name="systemYear" extra="true">
-            <text>RELEASED 1977</text>
-        </text>
         <text name="systemDescription" extra="true">
-            <text>8-BIT CONSOLE</text>
+            <text>8-BIT CONSOLE ▚ RELEASED 1977</text>
          </text>
     </view>
 
