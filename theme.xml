@@ -82,13 +82,6 @@ based on:       "Spare" by Matt Kennedy
         <image name="logo">
             <path>./_inc/images/controllers/${system.theme}.png</path>
         </image>
-        <image name="systemYearHelper" extra="true">
-            <path>./_inc/images/background.png</path>
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.8475</pos>
-            <size>0.75 0.04</size>
-            <color>FF79C644</color>
-        </image>
         <text name="systemYear" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.8475</pos>
@@ -119,13 +112,13 @@ based on:       "Spare" by Matt Kennedy
         <image name="systemInfoHelper" extra="true">
             <path>./_inc/images/background.png</path>
             <origin>0.5 0.5</origin>
-            <pos>0.5 0.88875</pos>
+            <pos>0.5 0.8475</pos>
             <size>0.75 0.04</size>
             <color>FF555544</color>
         </image>
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
-            <pos>0.5 0.88875</pos>
+            <pos>0.5 0.8475</pos>
             <size>0.75 0.04</size>
             <backgroundColor>00000000</backgroundColor>
             <color>F8F8F4CC</color>
