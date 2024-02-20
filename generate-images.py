@@ -54,7 +54,7 @@ controllers = {
         "notes": "Arbitrary dimensions, not an actual controller"
     },
     "auto-lastplayed": {
-        "dimensions": {"x": None, "y": 160},
+        "dimensions": {"x": None, "y": 200},
         "source": None,
         "notes": "Arbitrary dimensions, not an actual controller"
     },
@@ -197,7 +197,7 @@ print(f"Processing {len(controllers)} controller images")
 # Currently in .gitignore, may include as a submodule later (to prevent git clone, which is how
 # the RetroPie setup script installs a theme, from downloading source images unnecessarily)
 source_images_dir = "./_inc/source-images/controllers"
-dest_images_dir = "./_inc/source-images/test-output"
+dest_images_dir = "./_inc/images/controllers"
 print(f"Using source and destination image directories {source_images_dir} and {dest_images_dir}")
 
 canvas_size = {
