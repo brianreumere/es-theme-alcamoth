@@ -13,6 +13,9 @@
     </view>
 
     <view name="detailed, video">
+        <image name="rightBackground" extra="true">
+            <pos>-1 -1</pos>
+        </image>
         <image name="md_image">
             <pos>-1 -1</pos>
         </image>
