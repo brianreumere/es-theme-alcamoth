@@ -16,6 +16,12 @@
         <image name="md_image">
             <pos>0.65 0.29</pos>
         </image>
+        <image name="md_thumbnail">
+            <pos>-1 -1</pos>
+        </image>
+        <video name="md_video">
+            <pos>-1 -1</pos>
+        </video>
         <text name="md_description">
             <pos>0.65 0.735</pos>
         </text>
