@@ -13,7 +13,7 @@
     </view>
 
     <view name="detailed, video">
-        <image name="md_thumbnail">
+        <image name="md_image">
             <pos>-1 -1</pos>
         </image>
         <text name="md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_rating, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
