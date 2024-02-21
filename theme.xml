@@ -36,7 +36,7 @@ based on:       "Spare" by Matt Kennedy
         <image name="helpShadow" extra="true">
             <path>./_inc/images/shadow.png</path>
             <origin>0 1</origin>
-            <pos>0 0.93</pos>
+            <pos>-1 -1</pos>
             <size>1 0.06</size>
         </image>
     </view>
