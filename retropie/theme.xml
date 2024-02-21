@@ -13,7 +13,7 @@
     </view>
 
     <view name="detailed, video">
-        <image name="md_thumbnail">
+        <image name="md_image">
             <pos>0.65 0.29</pos>
         </image>
         <video name="md_video">
