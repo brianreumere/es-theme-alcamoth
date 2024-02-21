@@ -12,7 +12,7 @@
          </text>
     </view>
 
-    <view name="detailed">
+    <view name="detailed, video">
         <image name="md_thumbnail">
             <pos>-1 -1</pos>
         </image>
@@ -31,6 +31,5 @@
     </view>
 
     <view name="basic"></view>
-    <view name="video"></view>
 
 </theme>
