@@ -163,6 +163,11 @@ controllers = {
         "dimensions": {"x": 157, "y": 95},
         "source": "https://en.wikipedia.org/wiki/DualShock"
     },
+    "retropie": {
+        "dimensions": {"x": 80, "y": None},
+        "source": None,
+        "notes": "Arbitrary dimensions, not an actual controller"
+    },
     "saturn": {
         "dimensions": {"x": 155, "y": 86},
         "source": "https://www.dimensions.com/element/sega-saturn-controller-model-2"
