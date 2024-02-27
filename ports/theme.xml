@@ -1,0 +1,16 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+    <view name="system">
+        <text name="systemDescription" extra="true">
+            <text></text>
+         </text>
+    </view>
+
+    <view name="basic"></view>
+    <view name="detailed"></view>
+    <view name="video"></view>
+
+</theme>

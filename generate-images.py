@@ -151,6 +151,11 @@ controllers = {
             "Pokemon-mini-627132.html"
         )
     },
+    "ports": {
+        "dimensions": {"x": 152, "y": None},
+        "source": None,
+        "notes": "Steam controller, estimated dimensions"
+    },
     "ps2": {
         "dimensions": {"x": 157, "y": 95},
         "source": "https://en.wikipedia.org/wiki/DualShock"
