@@ -1,5 +1,13 @@
 # es-theme-alcamoth
 
+## Screenshots
+
+![Screenshot of the EmulationStation system view showing the Game Gear console selected](https://github.com/brianreumere/es-theme-alcamoth/blob/main/screenshot-system.png)
+
+![Screenshot of the EmulationStation system view showing the favorites collection selected](https://github.com/brianreumere/es-theme-alcamoth/blob/main/screenshot-system-favorites.png)
+
+![Screenshot of the EmulationStation detailed view showing the game Kirby's Dream Land for Game Boy](https://github.com/brianreumere/es-theme-alcamoth/blob/main/screenshot-detailed.png)
+
 ## Inspiration
 
 These are some other themes and screenshots that inspired the layout of this theme.
